@@ -1,0 +1,42 @@
+[
+{
+    "id": 1,
+    "nombre": "AMD Ryzen 5 5600X",
+    "precio": 320000,
+    "categoria": "CPU",
+    "imagen": "AMD R5.jpg",
+    "stock": 1
+},
+{
+    "id": 2,
+    "nombre": "Intel Core i5 12400F",
+    "precio": 295000,
+    "categoria": "CPU",
+    "imagen": "I5 12400f.jpg",
+    "stock": 5
+},
+{
+    "id": 3,
+    "nombre": "NVIDIA RTX 3060 12GB",
+    "precio": 850000,
+    "categoria": "GPU",
+    "imagen": "RTX 3060.jpg",
+    "stock": 5
+},
+{
+    "id": 4,
+    "nombre": "Corsair Vengeance 16GB DDR4",
+    "precio": 120000,
+    "categoria": "RAM",
+    "imagen": "RAM CORSAIR.jpg",
+    "stock": 5
+},
+{
+    "id": 5,
+    "nombre": "SSD NVMe 1TB WD Black",
+    "precio": 150000,
+    "categoria": "Almacenamiento",
+    "imagen": "SSD NVMe.jpg",
+    "stock": 5
+}
+]
